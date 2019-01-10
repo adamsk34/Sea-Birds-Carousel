@@ -1,7 +1,7 @@
 # Sea-Birds-Old-Carousel
 Static Web Page, Carousel
 
-This was an academic project. Open [app.htm](src/app.htm), in your browser, to view the web page.
+This was an academic project. Open [app.htm](app.htm), in your browser, to view the web page.
 
 This was originally made for *COMP3020 Human Computer Interaction 1* class, in fall 2016 at the University of Manitoba.
 
