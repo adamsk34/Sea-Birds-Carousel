@@ -1,0 +1,21 @@
+body {
+	background-color:SeaShell;
+}
+
+h2 {
+	font-family:helvetica;
+	color:SaddleBrown;
+}
+
+button {
+	background-color:BurlyWood;
+}
+
+img {
+	background-color:LightCyan;
+}
+
+.helv {
+	font-family:helvetica;
+	color:SaddleBrown;
+}
